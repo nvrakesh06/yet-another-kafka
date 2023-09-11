@@ -1,0 +1,4 @@
+# ignore all the topics created
+/yak/topics/*
+
+__pycache__

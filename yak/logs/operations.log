@@ -1,0 +1,8 @@
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2022 13:55:37] "POST /topic/test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2022 13:55:40] "POST /topic/test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2022 13:56:07] "GET /topic/test?from_beginning=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2022 13:57:54] "POST /topic/test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2022 13:58:33] "POST /topic/new_topic HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2022 13:59:44] "GET /topic/test?from_beginning=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2022 13:59:46] "POST /topic/test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Nov/2022 13:59:49] "POST /topic/test HTTP/1.1" 200 -
